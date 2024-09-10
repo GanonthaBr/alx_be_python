@@ -1,8 +1,9 @@
-lenght = 10
+length = 10
 width = 5
 
 #Area
-area = lenght * width
+area = length * width
+
 
 #Output
 
