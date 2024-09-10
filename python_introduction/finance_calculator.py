@@ -1,6 +1,7 @@
-monthly_incomes = input("Enter your monthly income: ")
+monthly_income = input("Enter your monthly income: ")
 monthly_expenses = input("Enter your total monthly expenses: ")
-monthly_savings = float(monthly_incomes) - float(monthly_expenses)
+monthly_savings = float(monthly_income) - float(monthly_expenses)
+
 
 #annual interest rate of 5%
 annual_interest_rate = 0.05
