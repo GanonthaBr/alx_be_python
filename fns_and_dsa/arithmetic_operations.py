@@ -13,5 +13,5 @@ def perform_operation(num1, num2, operation):
     else:
         return "Invalid operation"
    
-print(perform_operation(1,0,'divide'))
+
         
