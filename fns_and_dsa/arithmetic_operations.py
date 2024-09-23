@@ -13,5 +13,3 @@ def perform_operation(num1:float,num2:float,operation:str):
         case _:
             return "Invalid operation"
         
-
-print(perform_operation(1,2,'divide'))
